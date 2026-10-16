@@ -1,0 +1,2 @@
+20;MATRIMONIAL;100.0
+30;Individual;1200.0
